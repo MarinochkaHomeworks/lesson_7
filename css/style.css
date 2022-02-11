@@ -18,7 +18,7 @@ body {
 .container {
 	max-width: 1024px;
 	margin: 0 auto;
-	background: url('../img/free510.png') 50%/contain fixed;
+	background: url('../img/free510.png') 50%/contain no-repeat fixed;
 
 
 }
