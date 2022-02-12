@@ -31,17 +31,20 @@ body {
 }
 .logo {
 	margin: 0 0 0 10px;
-
+}
+.logo img {
+max-width: 80px;
 }
 
 .logo-text{
 	display: inline; 
 	font-weight: 700;
-	font-size: 64px;
+	font-size: 40px;
 	line-height: 1.9;
 	color: #FEFBFB;
 	text-decoration: underline;
 }
+
 
 .title {
 	max-width: 400px;
