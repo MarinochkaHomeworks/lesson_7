@@ -298,7 +298,7 @@ body {
 
 .footer {
 
-	height: 150px;
+	min-height: 150px;
 	padding-top: 60px;
 	background: url('../img/footer.jpg') 50%/100% no-repeat;
 	border-radius: 10px 0 10px 0;
@@ -330,7 +330,7 @@ body {
 	text-align: center;
 	color: #000000;
 	text-shadow: -3px -3px 15px rgb(243, 202, 16);
-	text-transform: uppercase ;
+	text-transform: uppercase;
 	text-decoration: underline;
 	margin: -40px auto 35px;
 }
