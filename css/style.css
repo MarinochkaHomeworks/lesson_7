@@ -303,7 +303,7 @@ max-width: 80px;
 
 	min-height: 150px;
 	padding: 30px 10px;
-	background: url('../img/footer.jpg') 50%/100% no-repeat;
+	background: url('../img/footer.jpg') 50%/cover no-repeat;
 	border-radius: 10px 0 10px 0;
 	border-top: 5px dotted #090a09;
 	border-left: 5px dotted #000000;
